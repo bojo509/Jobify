@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .custom {
+        margin-top: 0;
+        display: none;
+    }
+    .custom-width{
+        flex-direction: row;
+    }
+}
